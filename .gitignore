@@ -1,0 +1,8 @@
+# isletim sistemi dosyalari
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# yerel gelistirme yardimcilari
+_serve.py
+*.log
